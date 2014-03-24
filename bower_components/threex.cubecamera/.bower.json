@@ -1,0 +1,14 @@
+{
+  "name": "threex.cubecamera",
+  "homepage": "https://github.com/jeromeetienne/threex.cubecamera",
+  "_release": "85f49cb8cc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "85f49cb8ccbbfa105c8445bba6f85b492ea4a650"
+  },
+  "_source": "git://github.com/jeromeetienne/threex.cubecamera.git",
+  "_target": "*",
+  "_originalSource": "threex.cubecamera",
+  "_direct": true
+}
